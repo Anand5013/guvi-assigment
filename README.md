@@ -84,6 +84,7 @@ This is a web application that allows users to register, login, and update their
 - MySQL
 - Redisdb
 - MongoDB
+- Composer
 
 ## Author
 ANAND B
